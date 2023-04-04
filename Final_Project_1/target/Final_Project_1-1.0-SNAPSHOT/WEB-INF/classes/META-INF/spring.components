@@ -1,0 +1,6 @@
+com.mycompany.hbernateapp.UserController=org.springframework.stereotype.Component
+com.mycompany.hbernateapp.pojo.Address=javax.persistence.Entity
+com.mycompany.hbernateapp.pojo.Admin=javax.persistence.Entity
+com.mycompany.hbernateapp.pojo.Employee=javax.persistence.Entity
+com.mycompany.hbernateapp.pojo.Packages=javax.persistence.Entity
+com.mycompany.hbernateapp.pojo.User=javax.persistence.Entity,javax.persistence.Table
